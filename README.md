@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'am Ziariy22 aka Samed 👋
+- 🔥 I’m currently working on projects with Angular and Typescript
+- 📫 How to reach me: samed.azaplioglu@outlook.de
 
 <!--
 **Ziariy22/Ziariy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
