@@ -1,5 +1,5 @@
 ### Hi I'am Ziariy22 aka Samed 👋
-- 🔥 I’m currently working on projects with Angular and Typescript
+- 🔥 I’m currently working on projects with Javascript / Typescript / Vue.js
 - 📫 How to reach me: samed.azaplioglu@outlook.de
 
 <!--
