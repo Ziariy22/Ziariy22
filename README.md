@@ -1,5 +1,20 @@
 ### Hi I'am Ziariy22 aka Samed 👋
-- 🔥 I’m currently working on projects with Javascript / Typescript / Vue.js
+
+Building fun & exciting projects to get better in Development.
+
+- Fullstack Development:
+  Frontend
+  -> Html
+  -> CSS
+  -> Javascript
+  -> Typescript
+  -> VueJS / React
+  
+  Backend
+  -> Node.js
+  -> Express.js
+  -> SQL / MongoDB
+  
 - 📫 How to reach me: samed.azaplioglu@outlook.de
 
 <!--
