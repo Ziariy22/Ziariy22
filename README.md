@@ -3,20 +3,28 @@
 Building fun & exciting projects to get better in Development.
 
 - Fullstack Development:
+  
   Frontend
+  
   -> Html
+  
   -> CSS
+  
   -> Javascript
+  
   -> Typescript
+  
   -> VueJS / React
   
+  
   Backend
+  
   -> Node.js
+  
   -> Express.js
+  
   -> SQL / MongoDB
   
-- 📫 How to reach me: samed.azaplioglu@outlook.de
-
 <!--
 **Ziariy22/Ziariy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
