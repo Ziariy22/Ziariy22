@@ -1,8 +1,6 @@
 ### Hi I'am Ziariy22 aka Samed 👋
 
-Building fun & exciting projects to get better in Development.
-
-- Fullstack Development:
+Building fun & exciting projects to get better in Frontend & Backend Development.
   
   Frontend
   
@@ -14,8 +12,7 @@ Building fun & exciting projects to get better in Development.
   
   -> Typescript
   
-  -> VueJS / React
-  
+  -> React
   
   Backend
   
@@ -23,7 +20,6 @@ Building fun & exciting projects to get better in Development.
   
   -> Express.js
   
-  -> SQL / MongoDB
   
 <!--
 **Ziariy22/Ziariy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
